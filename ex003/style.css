@@ -1,0 +1,13 @@
+body{
+    display: grid;
+    justify-content: center;
+}
+#img1{
+    margin-left: 90px;
+}
+#img2{
+    margin-left: 90px;
+}
+#img3{
+    margin-left: 72px;
+}
